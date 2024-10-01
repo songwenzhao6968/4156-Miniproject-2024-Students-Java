@@ -10,3 +10,9 @@
 + Static Bug Finder PMD: https://pmd.github.io
 + Google Java Style Guide: https://google.github.io/styleguide/javaguide.html
 
+## I3: Continuous Integration and Cloud Deployment
+
++ CI/CD pipeline with GitHub Actions Guide: https://github.blog/enterprise-software/ci-cd/build-ci-cd-pipeline-github-actions-four-steps/
++ Google Cloud Platform Guide: https://cloud.google.com/sdk/docs/install-sdk
++ App Engine app.yaml reference: https://cloud.google.com/appengine/docs/standard/reference/app-yaml?tab=java
+
