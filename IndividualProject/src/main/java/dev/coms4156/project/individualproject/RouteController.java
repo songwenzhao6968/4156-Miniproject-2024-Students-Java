@@ -571,7 +571,7 @@ public class RouteController {
    * @return                            the String representation of all the courses with the 
    *                                    specified course code
    */
-  @PatchMapping(value = "/retrieveCourses", produces = MediaType.APPLICATION_JSON_VALUE)
+  @GetMapping(value = "/retrieveCourses", produces = MediaType.APPLICATION_JSON_VALUE)
   public ResponseEntity<?> retrieveCourses(
       @RequestParam(value = "courseCode") int courseCode
   ) {
